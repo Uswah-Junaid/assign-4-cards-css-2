@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(199, 192, 192);
+}
+.container1{
+    width: 20%;
+    height: 350px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50px;
+    margin-top: 120px;
+    margin-left: 200px;
+    display: inline-block;
+}
+.img1{
+    width: 25%;
+    height: 70px;
+    position: relative;
+    top: 20px;
+    left: 100px;
+}
+.head1{
+    margin-top: 40px;
+    background-color: #fff;
+    font-family: Segoe UI;
+}
+.para1{
+    margin-top: 20px;
+    background-color: #fff;
+    padding-left: 23px;
+}
+.h-line1{
+
+    background-color: #fff;
+    padding-left: 23px;
+    width: 80%;
+    height: 70px;
+}
+.butt1{
+    width: 50%;
+    height: 50px;
+    background-color: blue;
+    border-radius: 30px;
+    color: #fff;
+    border: 2px solid black;
+    position: relative;
+    top: -25px;
+    left: 60px;
+}
+
+
+
+
+.container2{
+    width: 20%;
+    height: 350px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50px;
+    margin-top: 70px;
+    margin-left: 70px;
+    display: inline-block;
+}
+.img2{
+    width: 25%;
+    height: 65px;
+    position: relative;
+    top: 20px;
+    left: 100px;
+}
+.head2{
+    margin-top: 40px;
+    background-color: #fff;
+    font-family: Segoe UI;
+}
+.para2{
+    margin-top: 20px;
+    background-color: #fff;
+    padding-left: 23px;
+}
+.h-line2{
+
+    background-color: #fff;
+    padding-left: 23px;
+    width: 80%;
+    height: 70px;
+}
+.butt2{
+    width: 50%;
+    height: 50px;
+    background-color: blue;
+    border-radius: 30px;
+    color: #fff;
+    border: 2px solid black;
+    position: relative;
+    top: -25px;
+    left: 60px;
+}
+
+
+
+
+
+
+.container3{
+    width: 20%;
+    height: 350px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50px;
+    margin-top: 70px;
+    margin-left: 70px;
+    display: inline-block;
+}
+.img3{
+    width: 25%;
+    height: 65px;
+    position: relative;
+    top: 20px;
+    left: 100px;
+}
+.head3{
+    margin-top: 40px;
+    background-color: #fff;
+    font-family: Segoe UI;
+}
+.para3{
+    margin-top: 20px;
+    background-color: #fff;
+    padding-left: 23px;
+}
+.h-line3{
+
+    background-color: #fff;
+    padding-left: 23px;
+    width: 80%;
+    height: 70px;
+}
+.butt3{
+    width: 50%;
+    height: 50px;
+    background-color: blue;
+    border-radius: 30px;
+    color: #fff;
+    border: 2px solid black;
+    position: relative;
+    top: -25px;
+    left: 60px;
+}
